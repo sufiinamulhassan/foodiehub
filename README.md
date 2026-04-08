@@ -1,5 +1,5 @@
-![Languages](https://img.shields.io/github/languages/top/yourusername/foodiehub)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername/foodiehub)
+![Languages](https://img.shields.io/github/languages/top/sufiinamulhassan/foodiehub)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sufiinamulhassanfoodiehub)
 
 # FoodieHub (Food DB Web Application)
 
